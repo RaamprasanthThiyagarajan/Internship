@@ -4,12 +4,6 @@ This project is a **responsive college admission web page** for **SSM Institute 
 
 ---
 
-## 🌐 Live Preview
-
-file:///C:/Users/Lenovo/Desktop/Internship/project_page1.html
-
----
-
 ## 📁 Features
 
 - 🎓 College Name and Banner Display
@@ -38,6 +32,11 @@ file:///C:/Users/Lenovo/Desktop/Internship/project_page1.html
 ## Webpage
 <img width="1074" height="1894" alt="_C__Users_Lenovo_Desktop_Internship_project_page1 html (3)" src="https://github.com/user-attachments/assets/d5795bad-e7e8-4030-aa72-9c9aa58b0adf" />
 
+<img width="379" height="527" alt="demo time table" src="https://github.com/user-attachments/assets/6bd0116a-cdd6-441d-9206-e3063f73b08e" />
+
+<img width="967" height="707" alt="_C__Users_Lenovo_Desktop_Internship_project_page2 html" src="https://github.com/user-attachments/assets/12f4e4a8-76ec-42e0-800d-7c03a79a32ce" />
+
+<img width="967" height="652" alt="_C__Users_Lenovo_Desktop_Internship_project_page7 html" src="https://github.com/user-attachments/assets/10c6b32f-e9dc-42d0-a827-3b0097ee32f4" />
 
 
 ---
