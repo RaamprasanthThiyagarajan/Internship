@@ -6,7 +6,7 @@ This project is a **responsive college admission web page** for **SSM Institute 
 
 ## 🌐 Live Preview
 
-> (Add your hosted URL here if available)
+file:///C:/Users/Lenovo/Desktop/Internship/project_page1.html
 
 ---
 
