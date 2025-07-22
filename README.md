@@ -36,9 +36,9 @@ This project is a **responsive college admission web page** for **SSM Institute 
 
 ---
 ## Webpage
-![](<img width="1074" height="1894" alt="_C__Users_Lenovo_Desktop_Internship_project_page1 html (3)" src="https://github.com/user-attachments/assets/d5795bad-e7e8-4030-aa72-9c9aa58b0adf" />
+<img width="1074" height="1894" alt="_C__Users_Lenovo_Desktop_Internship_project_page1 html (3)" src="https://github.com/user-attachments/assets/d5795bad-e7e8-4030-aa72-9c9aa58b0adf" />
 
-)
+
 
 ---
 
