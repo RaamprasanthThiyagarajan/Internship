@@ -18,17 +18,6 @@ This project is a **responsive college admission web page** for **SSM Institute 
 - 📞 Contact Info Section
 
 ---
-
-## 📄 HTML Structure
-
-- `<!DOCTYPE html>` used for HTML5 compliance
-- CSS styling applied using both:
-  - Internal `<style>` tag for background
-  - External stylesheet: `project_page1.css`
-- Proper usage of:
-  - `<center>`, `<h1>` to `<h5>`, `<marquee>`, `<ol>`, `<a>`, and `<p>` tag
-
----
 ## Webpage
 <img width="1074" height="1894" alt="_C__Users_Lenovo_Desktop_Internship_project_page1 html (3)" src="https://github.com/user-attachments/assets/d5795bad-e7e8-4030-aa72-9c9aa58b0adf" />
 
@@ -53,14 +42,6 @@ This project is a **responsive college admission web page** for **SSM Institute 
 - **Phone**: 0451-244-8800-899  
 - **Email 1**: ssmietdgl@ssmiet.ac.in  
 - **Email 2**: ssmietdgl@gmail.com  
-
----
-
-## ✅ To Do / Improvements
-
-- Convert `<marquee>` to modern scrolling methods using CSS/JS
-- Make it mobile responsive
-- Use semantic tags instead of `<h5>` for background styling
 
 ---
 
